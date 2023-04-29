@@ -7,7 +7,7 @@
   "option_operagx_game_name": "launch-io",
   "option_operagx_guid": "",
   "option_operagx_internalShareUrl": "",
-  "option_operagx_interpolate_pixels": true,
+  "option_operagx_interpolate_pixels": false,
   "option_operagx_next_version": "1.0.0.0",
   "option_operagx_publicShareUrl": "",
   "option_operagx_scale": 0,
